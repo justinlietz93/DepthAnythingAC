@@ -56,8 +56,8 @@ To address the lack of high-quality annotations in corrupted scenes, we introduc
 ### Setup
 
 ```bash
-git clone https://github.com/your-repo/Depth-Anything-AC
-cd Depth-Anything-AC
+git clone https://github.com/HVision-NKU/DepthAnythingAC.git
+cd DepthAnythingAC
 conda create -n depth_anything_ac python=3.9
 conda activate depth_anything_ac
 pip install -r requirements.txt
