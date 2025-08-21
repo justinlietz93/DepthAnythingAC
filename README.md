@@ -67,7 +67,7 @@ pip install -r requirements.txt
 
 ## Usage
 ### Get Depth-Anything-AC Model
-Download the pre-trained checkpoints from huggingface:
+Download the pre-trained checkpoints from [Hugging Face](https://huggingface.co/ghost233lism/DepthAnything-AC):
 ```bash
 mkdir checkpoints
 cd checkpoints
